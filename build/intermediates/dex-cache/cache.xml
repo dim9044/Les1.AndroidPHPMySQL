@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_8ba973dbd10cfd49f78ba0589016f659e9af0d28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_8af1d37d7eea4aa66575fe87dd6670a11cd694f5.jar" />
+    </item>
+    <item
+        jar="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_aba174aae4a13a20d72f8a651ebc7c6aae6b0037.jar" />
+    </item>
+    <item
+        jar="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Android\LibGDX\AndroidPHPMySQL\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_834408f0d58f2e1a7ccbbc2a7a7a6650f1a55cf8.jar" />
+    </item>
+
+</items>
